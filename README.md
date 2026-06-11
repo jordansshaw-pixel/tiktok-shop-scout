@@ -61,10 +61,6 @@ These files package the operator for judging, but are not required for runtime:
 | `submission-positioning.md` | Business cohort framing and judge-facing submission definition |
 | `presentation/` | Judge-facing hub, animated walkthrough, script, demo run, and visual direction |
 
-## Contributors
-
-See `CONTRIBUTORS.md`.
-
 ## Try it
 
 Heatless curlers example video with captions: https://youtube.com/shorts/xiNW8VM4dcg
