@@ -28,7 +28,7 @@ MESSY PRODUCT SIGNAL -> GOVERNED DECISION PATH -> BUSINESS ACTION
 
 This is a business decision workflow for affiliate creators: it turns messy TikTok Shop product signals into a governed **PROMOTE / SKIP / WATCHLIST** call before filming time, audience trust, or compliance risk is spent. PROMOTE routes directly to a ready-to-film script. The creator use case is the demo; the underlying pattern is governed AI judgment.
 
-See `submission-positioning.md` for the judge-facing submission definition and `presentation/submission-hub.html` for the single presentation target.
+Live presentation hub: https://jordansshaw-pixel.github.io/tiktok-shop-scout/submission-hub.html
 
 ## Operator Core
 
@@ -51,15 +51,6 @@ Key reference files:
 | `reference/audience-profile.md` | The buyer the operator scouts for (swappable) |
 | `reference/output-templates.md` | The three output formats — every decision ships in one |
 | `reference/script-templates.md` | Category-aware scaffolds for ready-to-film PROMOTE scripts |
-
-## Submission Wrapper
-
-These files package the operator for judging, but are not required for runtime:
-
-| File | Job |
-|------|-----|
-| `submission-positioning.md` | Business cohort framing and judge-facing submission definition |
-| `presentation/` | Judge-facing hub, animated walkthrough, script, demo run, and visual direction |
 
 ## Try it
 
