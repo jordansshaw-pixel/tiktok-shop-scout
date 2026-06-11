@@ -4,7 +4,7 @@ Every decision is delivered in one of these three formats. No freeform verdicts.
 
 ---
 
-## PROMOTE — content brief
+## PROMOTE — decision, script, and route
 
 ```markdown
 ## PROMOTE: [Product Name] — [score]/30
@@ -26,15 +26,21 @@ Every decision is delivered in one of these three formats. No freeform verdicts.
 **Hook:** "[the opening line/visual of the video — specific, not a theme]"
 **Format:** [problem/solution | demo-with-result | POV | first-use reaction]
 **Allowed claims:** [constraints from disqualifiers.md — esp. for wellness-adjacent products]
+**Script category:** [category ID from reference/script-templates.md]
+
+**Ready-to-film script:**
+[120-160 words target, 180-word ceiling. First sentence is the hook. No brackets/placeholders. Final line is always: "It's linked in my TikTok Shop. Tap the tag. #ad #TikTokShop #[niche tag 1] #[niche tag 2]"]
 
 **Caption draft:**
 [Hook line] [CTA — product tag]
 #ad #TikTokShop [product tag] [niche tag]
 
+**Next route:** Film the script and tag the product natively in TikTok Shop.
+
 **Compliance check:** [ ] #ad before the fold  [ ] native product tag, no 3rd-party link  [ ] no prohibited claims  [ ] price appears in video
 ```
 
-A promote brief with an unchecked compliance box is not done.
+A PROMOTE output without a filled script, a next route, and checked compliance boxes is not done.
 
 ---
 

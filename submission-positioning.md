@@ -4,6 +4,12 @@
 
 **Business**
 
+## Competition
+
+**Weekly Comp #7: The Operator**
+
+Prize context: free seat in the Lyceum.
+
 This submission is best defined as a business workflow, not a technical build or a creator asset.
 
 The end user is a creator, and the folder has a technical architecture, but the core value is a repeatable decision system for affiliate product selection. It helps a solo TikTok Shop affiliate creator decide where to spend content effort, where to avoid compliance risk, and which products need more proof before promotion.
@@ -18,7 +24,9 @@ A folder-based AI operator that turns TikTok Shop product scouting from gut inst
 
 ## Core Claim
 
-This is not just a TikTok product picker. It is a business decision system for creators who need to protect time, trust, and monetization.
+This is not just a TikTok product picker. It is a business decision system for creators who need to protect time, trust, and monetization before filming starts.
+
+The full pipeline is simple: paste any product signal, get one decision, and know the next action. **PROMOTE** includes a ready-to-film script, **SKIP** logs the rule that killed it, and **WATCHLIST** names the exact signal that would flip the product later.
 
 ## Why Business Is the Right Cohort
 
@@ -34,9 +42,9 @@ Most AI tools answer a creator's question. This folder governs the decision.
 
 A creator starts with a messy product signal: a listing, a screenshot, a price, a claim, a trend, or an FYP hunch. The operator does not ask for endless clarification or return a vague "it depends." It checks disqualifiers first, scores the product against business-relevant dimensions, applies threshold rules, handles edge cases, and returns exactly one action:
 
-- **PROMOTE** when the product clears proof, fit, economics, and compliance.
-- **SKIP** when a hard rule or structural weakness kills the opportunity.
-- **WATCHLIST** when the product is promising but needs a measurable signal before content effort is committed.
+- **PROMOTE** when the product clears proof, fit, economics, and compliance — with a script the creator can film today.
+- **SKIP** when a hard rule or structural weakness kills the opportunity — logged in one line.
+- **WATCHLIST** when the product is promising but needs a measurable signal before content effort is committed — with the re-check date named.
 
 The TikTok Shop use case is the demo. The larger pattern is governed AI judgment: scoped identity, explicit rules, proof gates, memory discipline, and fixed output formats.
 
@@ -56,6 +64,5 @@ It can safely claim that it:
 - reduces vague AI answers;
 - applies compliance disqualifiers before promotion;
 - makes missing data visible through conservative estimates;
-- produces a repeatable decision output;
+- produces a repeatable decision output and a ready-to-film script when the decision is PROMOTE;
 - can be redeployed by swapping the audience profile.
-

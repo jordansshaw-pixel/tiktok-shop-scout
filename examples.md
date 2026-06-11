@@ -14,7 +14,48 @@ Three real decision walkthroughs, one per output type. The third is an edge case
 
 **§3:** ≥18, commission confirmed → **PROMOTE.**
 
-**Output (abridged):** Hook: "POV: fine hair that's never held a curl past lunch." Format: overnight before/after. Caption: `Fine hair girls, this one's actually for us. Tap the tag. #ad #TikTokShop #heatlesscurls #finehair`. Compliance boxes all checked.
+**Output:**
+
+```markdown
+## PROMOTE: Heatless curling ribbon kit — 26/30
+
+**Listing:** affiliate marketplace listing
+**Commission:** 14% confirmed
+**Price:** $16.99
+**Post-by date:** none
+
+| Dimension | Score | Note |
+|-----------|-------|------|
+| Commission | 4 | 14% confirmed |
+| Velocity | 4 | sales count up roughly 40% week-over-week |
+| Saturation | 4 | ~420 active creators |
+| Angle | 4 | short/fine-hair variant is underused |
+| ICP fit | 5 | beauty category; visible before/after trigger |
+| Price | 5 | $17 impulse zone |
+
+**Hook:** "POV: fine hair that's never held a curl past lunch."
+**Format:** demo-with-result
+**Allowed claims:** cosmetic observation only; no guaranteed curl duration for the viewer.
+
+**Script category:** `BEAUTY_SKINCARE`
+
+**Ready-to-film script:**
+POV: fine hair that's never held a curl past lunch.
+I found this heatless curling ribbon kit and wanted to test it on hair that usually drops fast. It's only $17.
+I wrapped damp hair around the ribbon before bed, clipped it in place, and left it overnight.
+In the morning, I unwrapped it and did not use a single hot tool.
+What you can see on camera is the curl shape right after unwrapping, then the same hair later in the day. My fine hair still had curl after six hours.
+If heat tools make your hair feel like too much work, this is a simple overnight test.
+It's linked in my TikTok Shop. Tap the tag. #ad #TikTokShop #heatlesscurls #finehair
+
+**Caption draft:**
+POV: fine hair that's never held a curl past lunch. It's linked in my TikTok Shop. Tap the tag.
+#ad #TikTokShop #heatlesscurls #finehair
+
+**Compliance check:** [x] #ad before the fold  [x] native product tag, no 3rd-party link  [x] no prohibited claims  [x] price appears in video
+```
+
+**Compliance reasoning note:** Beauty is the correct script category because the product is a cosmetic hair tool, not wellness-adjacent. The script describes observed curl hold on the creator's own hair and does not promise the viewer a guaranteed result.
 
 ---
 

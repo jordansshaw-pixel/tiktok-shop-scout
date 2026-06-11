@@ -74,3 +74,16 @@ If the listing's stated commission contradicts the affiliate marketplace (or two
 ## §5. Output
 
 Every decision uses the matching template in `reference/output-templates.md` — promote brief, skip log line, or watchlist entry. A decision without its template filled out is incomplete. The promote brief must pass the compliance checklist at the bottom of the template before it's considered done.
+
+PROMOTE decisions additionally include a ready-to-film script generated from `reference/script-templates.md`. Identify the product category from the category ID table, then use the matching scaffold to produce a clean script with every placeholder filled. No brackets or placeholder text may remain in the output.
+
+Script requirements:
+
+- Target 120-160 words.
+- Hard ceiling: 180 words for HeyGen API compatibility.
+- The hook is the first sentence and must address a specific viewer pain point directly.
+- The CTA is always last: `It's linked in my TikTok Shop. Tap the tag.` plus `#ad #TikTokShop` and two niche tags.
+- Use observed, camera-demonstrable language only. No outcome promises.
+- Apply the category compliance rules in `reference/script-templates.md`.
+- Wellness-adjacent overrides beauty if both apply.
+- Wellness and tech scripts must pass their mandatory compliance pre-checks before output.
